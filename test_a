@@ -1,0 +1,19 @@
+print "Zdravo :)"
+print "2+3"
+2+3
+print "2-3"
+2-3
+print "-3"
+-3
+print "7*7"
+7*7
+print "9 div 2"
+9 div 2
+print "9 mod 2"
+9 mod 2
+print "((7*4.21)-((12/4.44)-2))+2"
+((7*4.21)-((12/4.44)-2))+2
+print "let x = 3"
+let x = 3
+print "it"
+it
